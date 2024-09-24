@@ -1,0 +1,23 @@
+# ninja log v5
+22	711	7485428647080773	CMakeFiles/Falchi_la_classifica.dir/main.cpp.obj	2a6044f6cb0156be
+17	733	7486242315574006	build.ninja	e6b3cf05b97b7772
+9	590	7485437553376272	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+591	841	7485437555704787	Falchi_la_classifica.exe	c442bc210eff9541
+24	501	7486244709457883	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+9	503	7486244709447884	CMakeFiles/Falchi_la_classifica.dir/main.cpp.obj	2a6044f6cb0156be
+503	655	7486244710933840	Falchi_la_classifica.exe	c442bc210eff9541
+21	674	7486268656014442	CMakeFiles/Falchi_la_classifica.dir/main.cpp.obj	2a6044f6cb0156be
+43	675	7486268656014442	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+676	857	7486268657763595	Falchi_la_classifica.exe	c442bc210eff9541
+21	976	7488958348385300	CMakeFiles/Falchi_la_classifica.dir/main.cpp.obj	2a6044f6cb0156be
+53	1024	7488958348788288	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+1024	1294	7488958351512577	Falchi_la_classifica.exe	c442bc210eff9541
+11	865	7488960881337444	CMakeFiles/Falchi_la_classifica.dir/main.cpp.obj	2a6044f6cb0156be
+867	1150	7488960883948427	Falchi_la_classifica.exe	c442bc210eff9541
+12	555	7488961397594237	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+557	747	7488961399368795	Falchi_la_classifica.exe	c442bc210eff9541
+13	722	7488962548084691	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+724	1027	7488962550949257	Falchi_la_classifica.exe	c442bc210eff9541
+10	700	7488963312998549	CMakeFiles/Falchi_la_classifica.dir/main.cpp.obj	2a6044f6cb0156be
+21	705	7488963313053578	CMakeFiles/Falchi_la_classifica.dir/classifica.cpp.obj	37bb4dcfd80368fe
+705	950	7488963315323059	Falchi_la_classifica.exe	c442bc210eff9541

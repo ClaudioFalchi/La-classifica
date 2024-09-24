@@ -1,0 +1,3 @@
+C:/Users/claud/CLionProjects/Falchi_la_classifica/cmake-build-debug/CMakeFiles/Falchi_la_classifica.dir
+C:/Users/claud/CLionProjects/Falchi_la_classifica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/claud/CLionProjects/Falchi_la_classifica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
